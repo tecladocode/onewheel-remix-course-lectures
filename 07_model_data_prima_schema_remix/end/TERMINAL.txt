@@ -1,0 +1,6 @@
+# After adding your model to `prisma/schema.prisma`
+# Updates local SQLite database to match the schema
+npx prisma db push
+
+# After updating `prisma/seed.ts`
+npx prisma db seed

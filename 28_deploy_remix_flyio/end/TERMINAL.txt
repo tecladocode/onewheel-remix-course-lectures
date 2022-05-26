@@ -1,0 +1,5 @@
+# Migrate the database, name of 'posts'
+npx prisma migrate dev
+
+# The README file in the project has instructions for deployment
+# https://github.com/kentcdodds/onewheel-blog

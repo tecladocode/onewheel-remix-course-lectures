@@ -4,7 +4,7 @@ While going through the Remix course from [Egghead.io](https://egghead.io/lesson
 
 I broke the code changes into lectures so that it would be easier to follow.
 
-Each lecture has an associated Diff Store link that shows you the changes and lets you download the code as shown at the beginning or end of any of the lectures.
+Each lecture has an associated [Diff Store](https://diff-store.com) link that shows you the changes and lets you download the code as shown at the beginning or end of any of the lectures.
 
 ## Why these help
 

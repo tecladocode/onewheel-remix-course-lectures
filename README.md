@@ -6,7 +6,9 @@ I broke the code changes into lectures so that it would be easier to follow.
 
 Each lecture has an associated Diff Store link that shows you the changes and lets you download the code as shown at the beginning or end of any of the lectures.
 
-Here they are:
+_Note_: at the moment there's a minor bug in Diff Store so the "From" and "To" paths are the same (both show the "To" path).
+
+Here are the Diff Store links:
 
 1. Intro: Up and Running with Remix (no code changes)
 2. Create a New Remix Project Using the remix-create CLI

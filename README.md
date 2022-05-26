@@ -6,7 +6,17 @@ I broke the code changes into lectures so that it would be easier to follow.
 
 Each lecture has an associated Diff Store link that shows you the changes and lets you download the code as shown at the beginning or end of any of the lectures.
 
-_Note_: at the moment there's a minor bug in Diff Store so the "From" and "To" paths are the same (both show the "To" path).
+## Why these help
+
+As students go through the course, it's helpful to code along with the instructor. Sometimes if the instructor codes very quickly or jumps between files quickly, students can get a bit lost.
+
+Having all the code changes in one place can help!
+
+Also, as an instructor, having these code changes _before recording_ helps me record better. That's an added bonus.
+
+Finally, if students want to pause the course and play around with the code, they can do so without worrying that their code will go out of sync with the instructor's code. When they move onto the next lecture, they can just download the "start" code from the lecture page and work off that.
+
+## Diff Store links
 
 Here are the Diff Store links:
 
@@ -43,3 +53,6 @@ Here are the Diff Store links:
 27. [Handle Unexpected Errors With Error Boundaries in Remix](https://diff-store.com/diff/31a36b9fd5d6419a98d3365c7e068046)
 28. [Deploy a Remix Application to Fly.io](https://diff-store.com/diff/7fe015c15e454cbebbec8b32c5308e49)
 29. Outro: Up and Running with Remix (no code changes)
+
+
+_Note_: at the moment there's a minor bug in Diff Store so the "From" and "To" paths are the same (both show the "To" path).
